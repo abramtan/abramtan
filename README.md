@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   Hello there!
 </h1>
 
-### About me
 Hello there, I'm Abram!
 
 - 🛠️ Currently working with **C++**, **Python**, **CUDA**, **Java**, **vLLM**, and **PyTorch**.
