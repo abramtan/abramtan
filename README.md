@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 </h1>
 
 ### About me
-Hello there! I'm Abram, a computer science undergraduate at SUTD. I have worked at LionsBot, a startup that designs and builds cleaning robots with personalities, at ST Electronics (Info-Security) doing some cyber-security work, and in Deloitte's cyber cloud team. I code in C++, Python, Java, Ruby and Swift and look forward to building the future of cloud computing, cool robots and applications that make our lives better!
+Hello there, I'm Abram!
+
+- 🛠️ Currently working with **C++**, **Python**, **CUDA**, **Java**, **vLLM**, and **PyTorch**.
+- 🔭 I’m focusing on **AI Systems Performance Engineering**, **Inference Optimization** and **AI Safety**.
+- ⚡ Fun fact: I’m a proud owner of physical tech books. If you need a recommendation for a deep dive that doesn't involve a screen, let me know.
